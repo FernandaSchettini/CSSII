@@ -1,0 +1,65 @@
+html{
+    text-align: center;
+    background-image:url(https://i.pinimg.com/736x/60/1e/b1/601eb116f166b97eb28cdaded0611f31.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+}         
+li{
+    margin-left: 40%;
+    text-align: justify;
+    margin-right: 40%;
+    background-color: aliceblue;
+    opacity: 0.7;
+    font-size: larger;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:coral;
+    margin-left: 40%;
+    margin-right: 40%;
+    opacity: 0.7;
+    border-radius: 15px;
+}
+p{
+    margin-left: 40%;
+    text-align: center;
+    margin-right: 40%;
+    font-size: larger;
+    background-color: aliceblue;
+    opacity: 0.7;
+}
+.preparo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    margin-left: 40%;
+    margin-right: 40%;
+    opacity: 0.7;
+    border-radius: 15px;
+}
+.ingre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    margin-left: 40%;
+    margin-right: 40%;
+    opacity: 0.7;
+    border-radius: 15px;
+}
+.leite{
+   color: blue;
+}
+.choco{
+    color: darkgreen;
+}
+.mant{
+    color: blue;
+}
+.trigo{
+    color: darkgreen;
+}
+.acucar{
+    color: darkgreen;
+}
+.fermento{
+    color: darkgreen;
+}
